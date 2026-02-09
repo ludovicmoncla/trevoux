@@ -178,3 +178,5 @@ cython_debug/
 /data
 
 txm/
+models/
+historic-french-model/
